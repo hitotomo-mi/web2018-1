@@ -1,11 +1,9 @@
-h1 { color: #F0A050; }
+h1 { color: #32cd32; }
 
-th,td{ border: dashed thick black; }
+th{ border: inset 8px mediumspringgreen; }
 
-th.important { color: red; }
+td{ border: double 6px mediumspringgreen; }
 
- p.sample1 {border: double 10px #0000ff;}
- p.sample2 {border: inset 10px #ff0000;}
- p.sample3 {margin: 30px 30px;padding: 10px;border:
-  medium solid #ff00ff;}
- p.sample4 {border: inset 10px #ffffff;}
+
+ p.sample1 {border: double 5px #ffa347;}
+body {background-color: #fff799; }
